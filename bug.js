@@ -1,0 +1,1 @@
+This error occurs when using the Expo Go app to test an app that uses a library that is not compatible with the Expo Go environment. This can happen if the library uses native modules or requires certain system features that are not available in the Expo Go runtime. The error message may vary depending on the specific library and the nature of the incompatibility.
